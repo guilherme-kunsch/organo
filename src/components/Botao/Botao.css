@@ -9,3 +9,7 @@
   color: #FFF;
   margin: 32px 0px;
 }
+
+.botao:hover{
+  background-color: #4964fc;
+}
